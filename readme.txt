@@ -1,4 +1,4 @@
-MiniGit Project (Our implemtation of a mini version of a version control system)
+MiniGit Project (Our implemetation of a mini version of a version control system)
 By: Eric Huynh and Matthew Etter
 
 User Interface:
