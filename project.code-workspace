@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp",
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"fstream": "cpp",
+			"istream": "cpp",
+			"ratio": "cpp",
+			"iosfwd": "cpp",
+			"new": "cpp",
+			"__node_handle": "cpp",
+			"memory": "cpp",
+			"utility": "cpp",
+			"sstream": "cpp",
+			"ios": "cpp",
+			"queue": "cpp",
+			"iterator": "cpp"
+		}
+	}
+}
